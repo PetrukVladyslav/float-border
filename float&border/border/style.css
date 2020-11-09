@@ -1,0 +1,32 @@
+*{
+    margin: 50px auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    width: 300px;
+    height: 150px;
+    background-color: skyblue;
+    border: 1px dashed red;
+}
+.second{
+    width: 300px;
+    height: 150px;
+    background-color: yellow;
+    border: 1px dotted red;
+}
+.third{
+    width: 300px;
+    height: 150px;
+    background-color: skyblue;
+    border-left: blue solid 10px;
+    border-top: blue solid 10px;
+    border-right:  rgb(44, 44, 151) solid 10px;;
+    border-bottom:  rgb(44, 44, 151) solid 10px;
+}
+.fouth{
+    width: 300px;
+    height: 150px;
+    background-color: skyblue;
+    border-left: 5px solid black;
+}
